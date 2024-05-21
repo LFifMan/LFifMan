@@ -1,7 +1,8 @@
 # Hello, I'm [Your Name]! 👋
 
 ## About Me
-![Your Image](https://via.placeholder.com/150)
+![images](https://github.com/LFifMan/LFifMan/assets/105165762/68ebee7a-eab4-4278-998c-35dfc5cd92bf)
+
 
 I'm a Full-Stack developper. I'm passionate about coding, open source, and building meaningful software that improves the lives of those around me.
 
@@ -17,7 +18,7 @@ I'm a Full-Stack developper. I'm passionate about coding, open source, and build
 + JavaScript
 + React
 + Next.js
-
+```
 <!--
 **LFifMan/LFifMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
